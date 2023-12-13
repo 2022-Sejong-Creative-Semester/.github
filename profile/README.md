@@ -34,25 +34,25 @@
 ## 서비스 예시
 <div align="left">
   <a href="https://www.easy-taza.site">
-    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/main.png?raw=true" width="150" height="300">
-    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/bus_main.png?raw=true" width="150" height="300">
-    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/bus_station.png?raw=true" width="150" height="300">
-    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/bus_info.png?raw=true" width="150" height="300">
-    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/naver.jpg?raw=true" width="150" height="300">
+    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/main.png?raw=true" width="140" height="280">
+    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/bus_main.png?raw=true" width="140" height="280">
+    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/bus_station.png?raw=true" width="140" height="280">
+    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/bus_info.png?raw=true" width="140" height="280">
+    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/naver.jpg?raw=true" width="140" height="280">
   </a><p>
   <a href="https://www.easy-taza.site">
-    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/subway_main.png?raw=true" width="150" height="300">
-    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/subway_station.png?raw=true" width="150" height="300">
-    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/subway_elevator.png?raw=true" width="150" height="300">
-    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/subway_transfer.png?raw=true" width="150" height="300">
-    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/subway_transfer_info.png?raw=true" width="150" height="300">
-    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/subway_wheelchair.png?raw=true" width="150" height="300">
+    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/subway_main.png?raw=true" width="140" height="280">
+    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/subway_station.png?raw=true" width="140" height="280">
+    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/subway_elevator.png?raw=true" width="140" height="280">
+    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/subway_transfer.png?raw=true" width="140" height="280">
+    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/subway_transfer_info.png?raw=true" width="140" height="280">
+    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/subway_wheelchair.png?raw=true" width="140" height="280">
   </a><br>
   <a href="https://www.easy-taza.site">
-    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/navigation_main.png?raw=true" width="150" height="300">
-    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/navigation_marker.png?raw=true" width="150" height="300">
-    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/navigation_info1.png?raw=true" width="150" height="300">
-    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/navigation_info2.png?raw=true" width="150" height="300">
+    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/navigation_main.png?raw=true" width="140" height="280">
+    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/navigation_marker.png?raw=true" width="140" height="280">
+    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/navigation_info1.png?raw=true" width="140" height="280">
+    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/navigation_info2.png?raw=true" width="140" height="280">
   </a><br>
 </div>
 
