@@ -64,7 +64,7 @@
 </a>
 
 ## 기술스택
-<img src="./image/techStack.png?raw=true" width="600">
+<img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/techStack.png?raw=true" width="600">
 <hr>
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> 
