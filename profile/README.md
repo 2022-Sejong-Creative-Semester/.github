@@ -26,7 +26,7 @@
 ## 시연영상
 <div align="left">
   <a href="https://youtu.be/5AAIu0YLv-I">
-    <img src="./image/youtube.png" alt="taza Youtube" height="500">
+    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/youtube.png?raw=true" alt="taza Youtube" height="500">
   </a><br>
   <b>▲ 프로젝트 시연영상</b>
 </div>
@@ -34,25 +34,25 @@
 ## 서비스 예시
 <div align="left">
   <a href="https://www.easy-taza.site">
-    <img src="./image/main.png" width="100" height="200">
-    <img src="./image/bus_main.png" width="100" height="200">
-    <img src="./image/bus_station.png" width="100" height="200">
-    <img src="./image/bus_info.png" width="100" height="200">
-    <img src="./image/naver.jpg" width="100" height="200">
+    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/main.png?raw=true" width="100" height="200">
+    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/bus_main.png?raw=true" width="100" height="200">
+    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/bus_station.png?raw=true" width="100" height="200">
+    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/bus_info.png?raw=true" width="100" height="200">
+    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/naver.jpg?raw=true" width="100" height="200">
   </a><p>
   <a href="https://www.easy-taza.site">
-    <img src="./image/subway_main.png" width="100" height="200">
-    <img src="./image/subway_station.png" width="100" height="200">
-    <img src="./image/subway_elevator.png" width="100" height="200">
-    <img src="./image/subway_transfer.png" width="100" height="200">
-    <img src="./image/subway_transfer_info.png" width="100" height="200">
-    <img src="./image/subway_wheelchair.png" width="100" height="200">
+    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/subway_main.png?raw=true" width="100" height="200">
+    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/subway_station.png?raw=true" width="100" height="200">
+    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/subway_elevator.png?raw=true" width="100" height="200">
+    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/subway_transfer.png?raw=true" width="100" height="200">
+    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/subway_transfer_info.png?raw=true" width="100" height="200">
+    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/subway_wheelchair.png?raw=true" width="100" height="200">
   </a><br>
   <a href="https://www.easy-taza.site">
-    <img src="./image/navigation_main.png" width="100" height="200">
-    <img src="./image/navigation_marker.png" width="100" height="200">
-    <img src="./image/navigation_info1.png" width="100" height="200">
-    <img src="./image/navigation_info2.png" width="100" height="200">
+    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/navigation_main.png?raw=true" width="100" height="200">
+    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/navigation_marker.png?raw=true" width="100" height="200">
+    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/navigation_info1.png?raw=true" width="100" height="200">
+    <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/navigation_info2.png?raw=true" width="100" height="200">
   </a><br>
 </div>
 
@@ -60,11 +60,11 @@
 ### [https://www.easy-taza.site](https://www.easy-taza.site)
 
 <a>
-  <img src="./image/QR.jpg" width="200">
+  <img src="https://github.com/2022-Sejong-Creative-Semester/.github/blob/main/profile/image/QR.jpg?raw=true" width="200">
 </a>
 
 ## 기술스택
-<img src="./image/techStack.png" width="600">
+<img src="./image/techStack.png?raw=true" width="600">
 <hr>
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> 
